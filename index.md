@@ -1,3 +1,0 @@
-Welcome!
-
-Have a look around...
