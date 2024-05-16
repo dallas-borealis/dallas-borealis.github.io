@@ -3,8 +3,6 @@ title: What's new today
 date: 2024-05-16
 ---
 
-# What's new today
-
 Toshoio Matsuura Group > LOVEPLAYDANCE  
 Currently reading Craig Mod's [Return to Pachinko Road](https://craigmod.com/ridgeline/186/)  
 The [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)  
