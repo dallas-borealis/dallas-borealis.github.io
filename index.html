@@ -1,0 +1,18 @@
+---
+layout: default
+title: dallas-borealis
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% end for %}
+  </ul>
+
+  <h1>Other stuff</h1>
+  <ul class="posts">
+    <li><a href=""></a></li>
+  </ul>
+</div>
