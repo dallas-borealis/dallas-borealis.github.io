@@ -16,10 +16,11 @@ html, body {
 }
 
 body {
-  background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  background-color: fcfcfa;
+  font: 13.34px 'Source Sans Pro', sans-serif;
   *font-size: small;
   text-align: center;
+  color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,13 +39,9 @@ a {
   color: #00a;
 }
 
-a:hover {
-  color: black;
-}
-
-a:visited {
-  color: #a0a;
-}
+a { color: rgba(10, 132, 255, 1); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:visited { color:rgba(10, 132, 255, 1); }
 
 table {
   font-size: inherit;
