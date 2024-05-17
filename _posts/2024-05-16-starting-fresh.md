@@ -1,7 +1,12 @@
 ---
-title: Starting Fresh
-date: 2024-05-16
+layout: post
+title: Starting fresh
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">16 may 2024 - Bellingham</p>
 
 I have toyed with the idea of starting a blog a few times: 1) I'm gonna be a writer; 2) I'm gonna be a writer (a few years later); 3) I need to find a place to save my scratch files (another story); 4) holy crap, themes in blogger, wordpress, tumblr, etc. are a pain...blah blah blah
 
