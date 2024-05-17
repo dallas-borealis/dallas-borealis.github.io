@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: fcfcfa;
+  background-color: #fcfcfa;
   font: 13.34px 'Source Sans Pro', sans-serif;
   *font-size: small;
   text-align: center;
@@ -84,18 +84,18 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: rgba(10, 132, 255, 1);
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: rgba(10, 132, 255, 1);
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    /* color: black; */
   }
 
   .site .title a.extra {
