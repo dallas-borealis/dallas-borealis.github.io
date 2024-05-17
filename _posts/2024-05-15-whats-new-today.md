@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A reformed runner's view on walking
+title: What's new today
 ---
 
 {{ page.title }}
