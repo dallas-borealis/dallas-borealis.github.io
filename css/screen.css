@@ -101,12 +101,13 @@ hr {
 }
 
 p.subtitle {
-    font-style: italic;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-size: 1.8rem;
-    display: block;
-    line-height: 1;
+   font-style: italic;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   font-size: 1.8rem;
+   display: block;
+   line-height: 1;
+   color: #aaa;
 }
 
 .numeral {
@@ -227,11 +228,9 @@ figure.fullwidth figcaption {
     margin-right: 24%;
 }
 
-/* Links: replicate underline that clears descenders */
-a:link,
-a:visited {
-    color: inherit;
-}
+a { color: rgba(10, 132, 255, 1); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:visited { color:rgba(10, 132, 255, 1); }
 
 .no-tufte-underline:link {
     background: unset;
