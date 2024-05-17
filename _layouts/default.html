@@ -1,41 +1,34 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en-us">
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <meta charset="utf-8" />
    <title>{{ page.title }}</title>
    <meta name="author" content="dallas borealis" />
+   <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
 </head>
 <body>
+  <article>
+    <h1><a href="/">dallas borealis</a></h1>
+    <p class="subtitle">Sees, saves, shares</p>
+    <section>
 
-<div class="site">
-  <div class="title">
-    <a href="/">dallas borealis</a>
-  </div>
+      {{ content }}
 
-  {{ content }}
-
-  <div class="footer">
-    <div class="contact">
+  <section>
       <p>
         dallas borealis<br />
         Sees, saves, shares<br />
         dallas.borealis@gmail.com
       </p>
-    </div>
-    <div class="contact">
-      <p>
-
-      </p>
-    </div>
-    <div class="rss">
+    </section>
+    <section>
       <a href="http://dallas-borealis.github.io/atom.xml">
-        Subscribe to RSS Feed"
+        <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
       </a>
-    </div>
-  </div>
-</div>
+    </section>
+  </article>
 
 </body>
 </html>
