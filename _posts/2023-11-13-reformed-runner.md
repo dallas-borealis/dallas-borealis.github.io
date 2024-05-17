@@ -13,12 +13,12 @@ My wife asked me how I was doing after deciding to stop running (as a form of ex
 I miss running because...
  - of an error in judgement: speed = good workout.
   But I don't run fast. At my best I was 11-minute per mile. My ultra was more like 13-minutes plus. I tried running to the zone of a specific heart rate or level of being able to complete a sentence. It always felt like too much.
- - I did improve my health and lost weight
+ - I did improve my health and lost weight.
  I know better now that weight loss is better tied to the _amount and type_ of food than exercise alone. Still.
 
 I don't miss running because...
  - I was never relaxed.
- Because of where I live, running takes place on roads and trails. Roads have cars (and my area lacks courteous drivers, the ones that will move out and away from you, even if it means going into the other lane). Trails have roots, rocks, puddles, mud, branches...you spend your time staring at a spot ten feet in front of you; imagine doing that for a couple hours. Or more.
+ Because of where I live, running takes place on roads and trails. Roads have cars (EDIT: where I lived for most of my training, that area lacked courteous drivers, the ones that will move out and away from you, even if it means going into the other lane. Where I live now? Soooo much better). Trails have roots, rocks, puddles, mud, branches...you spend your time staring at a spot ten feet in front of you; imagine doing that for a couple hours. Or more.
  - I wasn't _really_ built for it.
  I have short, stubby legs - "hey, is that a fire plug running" or "Tweety Bird" - and my stride is a shuffle (and yes, shuffling is a very efficient way to run). Regardless, it didn't feel natural to run.
 
