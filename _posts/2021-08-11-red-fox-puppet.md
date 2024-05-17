@@ -1,4 +1,10 @@
-# The Red Fox Puppet
+---
+layout: post
+title: The Red Fox Puppet
+---
+
+{{ page.title }}
+================
 
 <p class="subtitle">11 Aug 2021 - Kingston</p>
 
@@ -23,7 +29,7 @@ It was a few days after this wash-rinse-repeat cycle of being alone and crying t
   <label for="mn-red-fox" class="margin-toggle">&#8853;</label>
   <input type="checkbox" id="mn-red-fox" class="margin-toggle">
   <span class="marginnote">"From Dallas Borealis, "<em>The Red Fox</em> ", page 92."</span>
-  <img src="images/red-fox.jpg" alt="A photograph of an old red fox puppet">
+  <img src="/images/red-fox.jpg" alt="A photograph of an old red fox puppet">
 </figure>
 
 And I can't throw away my friend. I got choked up telling my wife about the fox, and how disrespectful it would be chuck this thing into the garbage. It deserves a burial, a wake, something more than a careless discarding. So, in the greatest sense of irony, it went back in the box.
