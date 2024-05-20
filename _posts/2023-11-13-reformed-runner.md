@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A reformed runner's view on walking
+title: From running to walking
 ---
 
 {{ page.title }}
