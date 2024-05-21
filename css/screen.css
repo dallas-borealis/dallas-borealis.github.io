@@ -83,6 +83,7 @@ ol,
 ul {
     font-size: 1.4rem;
     line-height: 2rem;
+    width: 55%;
 }
 ul.posts {
     padding: 0;
