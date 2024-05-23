@@ -6,7 +6,7 @@ title: What's new today
 {{ page.title }}
 ================
 
-<p class="meta">16 may 2024 - Bellingham</p>
+<p class="subtitle">16 May 2024 - Bellingham</p>
 
 Toshoio Matsuura Group > LOVEPLAYDANCE  
 Currently reading Craig Mod's [Return to Pachinko Road](https://craigmod.com/ridgeline/186/)  
