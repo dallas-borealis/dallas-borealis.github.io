@@ -102,6 +102,9 @@ p {
     vertical-align: baseline;
    text-indent: 1.8em;
 }
+p:first-of-type {
+    text-indent: 0;
+}
 
 /* Chapter Epigraphs */
 div.epigraph {
