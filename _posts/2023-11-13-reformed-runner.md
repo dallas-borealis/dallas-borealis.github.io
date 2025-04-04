@@ -3,10 +3,9 @@ layout: post
 title: From running to walking
 ---
 
-{{ page.title }}
-================
+h1. {{ page.title }}
 
-<p class="subtitle">13 Nov 2023 - Bellingham</p>
+p(meta)13 Nov 2023 - Bellingham
 
 My wife asked me how I was doing after deciding to stop running (as a form of exercise). I said I kind of miss it but I also don't. There was a lot of back and forth with incomplete thoughts and insights. But after sleeping, rather dozing on it here's where I'm at:
 
