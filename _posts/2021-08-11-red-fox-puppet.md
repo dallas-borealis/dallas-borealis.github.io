@@ -3,10 +3,9 @@ layout: post
 title: The Red Fox Puppet
 ---
 
-{{ page.title }}
-================
+h1. {{ page.title }}
 
-<p class="subtitle">11 Aug 2021 - Kingston</p>
+p(meta). 11 Aug 2021 - Kingston
 
 To look at it now, the red fox puppet has matted red fur, a missing black felt eye, and browny aged white...things. And smells of oldness, like something that was damp then dry several times over. The box it came from, it's home for the past five years, has fared better but it too has mustiness from the wet Pacific Northwest winters and the hotness of summer crawlspace storage.
 
