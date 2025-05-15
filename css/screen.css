@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px serif;
   *font-size: small;
   text-align: center;
 }
@@ -31,19 +31,24 @@ h1 {
 }
 
 p {
-  margin: 1em 0;
+  margin-top: 1.375em;
+  margin-bottom: 0;
+}
+p + p {
+  margin-top: 0;
+  text-indent: 1.375em;
 }
 
 a {
-  color: #00a;
+  color: #0f5cb2;
 }
 
 a:hover {
-  color: black;
+  opacity: 0.8;
 }
 
 a:visited {
-  color: #a0a;
+  color: #0f5cb2;
 }
 
 table {
